@@ -23,8 +23,7 @@ My goal is to become a professional Full Stack Developer and eventually explore 
 - Explore AI, Machine Learning, and Game Development
 
 ### 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/ahmed-okady)
-
+- [LinkedIn](https://www.linkedin.com/in/ahmed-okady)
 ---
 ⭐ Always learning, building, and improving.
   
