@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Okady00x/Okady00x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmed! 👋
 
-Here are some ideas to get you started:
+### 🚀 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building a strong foundation in programming, focusing on C++, algorithms, and problem-solving.
+
+My goal is to become a professional Full Stack Developer and eventually explore AI, Machine Learning, and Game Development.
+
+### 📚 Currently Learning
+- C++ Programming
+- Algorithms & Problem Solving
+- Programming Fundamentals
+
+### 💻 My Projects
+- [Age Calculator (C++)](https://github.com/Okady00x/Age-Calculator-CPP) — A C++ application that calculates age in different time units.
+
+### 🎯 My Goals
+- Strengthen my programming fundamentals
+- Build practical projects and a strong portfolio
+- Become a Full Stack Developer
+- Work remotely and collaborate with international clients
+- Explore AI, Machine Learning, and Game Development
+
+### 📫 Connect With Me
+- LinkedIn: Coming soon!
+
+---
+⭐ Always learning, building, and improving.
+  
